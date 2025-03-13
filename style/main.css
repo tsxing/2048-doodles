@@ -430,74 +430,74 @@ hr {
 
 .tile.tile-2 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/vanilla-cupcake.jpg');
+    background-image: url('../img/1.png');
     background-size: cover;
 }
 
 .tile.tile-4 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/strawberry-vanilla-cupcake.jpg');
+    background-image: url('../img/2.png');
     background-size: cover;
 }
 
 .tile.tile-8 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/lemon-cupcake.jpg');
+    background-image: url('../img/3.png');
     background-size: cover;
 }
 
 .tile.tile-16 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/red-velvet-cupcake.jpg');
+    background-image: url('../img/4.png');
     background-size: cover;
 }
 
 .tile.tile-32 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/mint-cupcake.jpg');
+    background-image: url('../img/5.png');
     background-size: cover;
 }
 
 .tile.tile-64 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/jumbo-oreo-cupcake.jpg');
+    background-image: url('../img/6.png');
     background-size: cover;
 }
 
 .tile.tile-128 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/birthday-cupcake.jpg');
+    background-image: url('../img/7.png');
     background-size: cover;
 }
 
 .tile.tile-256 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/royal-blue-cupcake.jpg');
+    background-image: url('../img/8.png');
     background-size: cover;
 }
 
 .tile.tile-512 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/caramel-cupcake.jpg');
+    background-image: url('../img/9.png');
     background-size: cover;
 }
 
 .tile.tile-1024 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/pink-champagne-cupcake.jpg');
+    background-image: url('../img/10.png');
     background-size: cover;
 }
 
 .tile.tile-2048 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/christmas-cupcake.jpg');
+    background-image: url('../img/11.png');
     /* use ../img/pumpkin-cupcake.jpg for fall */
     background-size: cover;
 }
 
 .tile.tile-super .tile-inner {
     font-size: 0px;
-    background-image: url('../img/gold-cupcake.jpg');
+    background-image: url('../img/12.png');
     background-size: cover;
 }
 
